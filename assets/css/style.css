@@ -31,15 +31,17 @@ header {
 
 .main-header {
     height: 100vh;
-background-image: url(../images/header-5.jpg);
-   background-size: cover;
-   width: 100%;
+    background-image: url(../images/header-5.jpg);
+    background-size: cover;
+    width: 100%;
 }
-.login{
-width: 500px;
-margin: 100px auto;
+
+.login {
+    width: 500px;
+    margin: 100px auto;
 
 }
+
 .nav-link {
     font-size: 18px;
 }
